@@ -1,0 +1,27 @@
+.section{
+  padding: 8rem 0.8rem; 
+  text-align: center;
+}
+
+.section-heading,
+.section-description{
+margin-bottom: 1.2rem;
+}
+
+.showcase-img{
+position: relative;
+max-width: 80%;
+margin: 3rem auto -18rem;
+}
+.section-a{
+    background-image: url(./img/background\ img.jpg);
+    color: #fff;
+    background-size: cover;
+    padding-bottom: 20px;
+}
+section-a .fa{
+   /* font-size: 80px;  */
+}
+.section-a h5{
+    margin-bottom: 3rem;
+}
